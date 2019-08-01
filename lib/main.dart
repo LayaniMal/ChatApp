@@ -6,14 +6,14 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
 final ThemeData kIOSTheme = new ThemeData(
-  primarySwatch: Colors.orange,
+  primarySwatch: Colors.pink,
   primaryColor: Colors.grey[100],
   primaryColorBrightness: Brightness.light,
 );
 
 final ThemeData kDefaultTheme = new ThemeData(
   primarySwatch: Colors.blue,
-  accentColor: Colors.orangeAccent[400],
+  accentColor: Colors.pinkAccent[400],
 
 );
 
